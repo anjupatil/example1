@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: example1
+  host: example1sd14cs014
+  disk_quota: 1024M
